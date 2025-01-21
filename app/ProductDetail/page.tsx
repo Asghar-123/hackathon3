@@ -1,4 +1,6 @@
 //page.tsx\productdetail
+/* eslint-disable react/no-unescaped-entities */
+
 import Footer from "@/components/footer";
 import Navbar3 from "@/components/navbar";
 
