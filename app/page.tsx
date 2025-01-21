@@ -2,7 +2,7 @@ import Image from "next/image";
 import Footer from "@/components/footer";
 import Product2 from "@/components/product2";
 import Navbar3 from "@/components/navbar";
-import { createClient } from '@sanity/client';
+
 
 
 export default function Home() {
